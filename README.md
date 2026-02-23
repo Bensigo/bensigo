@@ -1,4 +1,4 @@
-# Hey, I'm Sigo 👋
+# Hey, I'm Bensigo
 
 Full-stack engineer with 7+ years building products from 0→1. I specialize in TypeScript, Next.js, React, and Node.js  with a growing focus now on AI agents.
 
