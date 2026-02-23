@@ -1,6 +1,6 @@
 # Hey, I'm Sigo 👋
 
-Full-stack engineer with 7+ years building products from 0→1. I specialize in TypeScript, React, and Node.js — with a growing focus on AI agents and payment systems.
+Full-stack engineer with 7+ years building products from 0→1. I specialize in TypeScript, Next.js, React, and Node.js  with a growing focus on AI agents and payment systems.
 
 Currently contracting out of Dubai and open to founding engineer roles at AI/web3 startups.
 
