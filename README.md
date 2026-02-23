@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hey, I'm Sigo 👋
 
-<!--
-**Bensigo/bensigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack engineer with 7+ years building products from 0→1. I specialize in TypeScript, React, and Node.js — with a growing focus on AI agents and payment systems.
 
-Here are some ideas to get you started:
+Currently contracting out of Dubai and open to founding engineer roles at AI/web3 startups.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## Projects
+
+**[Boki.io](https://boki.io)** — Content operations platform for teams. Built end-to-end.
+
+**[Clearhealth](https://clearhealth.ai)** — AI-native healthcare platform. Founder.
+
+---
+
+## Let's connect
+
+[Twitter](https://twitter.com/sigoEgwey) · [LinkedIn](https://linkedin.com/in/bensigo-egwey)
