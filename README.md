@@ -13,6 +13,8 @@ Currently contracting out of Dubai and open to founding engineer roles at AI/web
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Postgresql](https://img.shields.io/badge/postgresql-2496ED?style=flat-square&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-47A248?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
