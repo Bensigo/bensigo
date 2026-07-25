@@ -1,6 +1,6 @@
 # Hey, I'm Bensigo
 
-Full-stack engineer with 7+ years building products from 0 to 1. I specialize in TypeScript, Next.js, React, and Node.js  with a growing focus now on AI agents.
+Full-stack engineer with 7+ years building products from 0 to 1. I specialize in TypeScript, Next.js, React,python and Node.js  with a growing focus now on AI agents.
 
 Currently contracting out of Dubai and open to founding engineer roles at AI/web3 startups.
 
@@ -18,10 +18,12 @@ Currently contracting out of Dubai and open to founding engineer roles at AI/web
 ---
 
 ## Projects
+**[heyjace](https://heyjace.com)** — The AI software engineer. Founder.
 
 **[Boki.io](https://boki.io)** — Content operations platform for teams. Built end-to-end.
 
 **[Clearhealth](https://clearhealth.ai)** — AI-native healthcare platform. Founder.
+
 
 ---
 
