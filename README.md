@@ -20,7 +20,7 @@ Currently contracting out of Dubai and open to founding engineer roles at AI/web
 ---
 
 ## Projects
-**[heyjace](https://heyjace.com)** — The AI software engineer. Founder.
+**[heyjace](https://heyjace.com)** — Your evidence and control layer for coding agents.
 
 **[Boki.io](https://boki.io)** — Content operations platform for teams. Built end-to-end.
 
